@@ -1,0 +1,6 @@
+*.zip
+
+.DS_Store
+
+# temporary files
+*(Autosaved).ai
